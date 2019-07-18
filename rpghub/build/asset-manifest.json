@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rpghub/static/css/main.19393e92.chunk.css",
+    "main.js": "/rpghub/static/js/main.1a6a5539.chunk.js",
+    "main.js.map": "/rpghub/static/js/main.1a6a5539.chunk.js.map",
+    "runtime~main.js": "/rpghub/static/js/runtime~main.fefc12d8.js",
+    "runtime~main.js.map": "/rpghub/static/js/runtime~main.fefc12d8.js.map",
+    "static/css/2.fb390452.chunk.css": "/rpghub/static/css/2.fb390452.chunk.css",
+    "static/js/2.3cf1cc9f.chunk.js": "/rpghub/static/js/2.3cf1cc9f.chunk.js",
+    "static/js/2.3cf1cc9f.chunk.js.map": "/rpghub/static/js/2.3cf1cc9f.chunk.js.map",
+    "index.html": "/rpghub/index.html",
+    "precache-manifest.4885b0198f3a06d7179f1967b96947ea.js": "/rpghub/precache-manifest.4885b0198f3a06d7179f1967b96947ea.js",
+    "service-worker.js": "/rpghub/service-worker.js",
+    "static/css/2.fb390452.chunk.css.map": "/rpghub/static/css/2.fb390452.chunk.css.map",
+    "static/css/main.19393e92.chunk.css.map": "/rpghub/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/rpghub/static/media/logo.5d5d9eef.svg"
+  }
+}
